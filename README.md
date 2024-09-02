@@ -4,16 +4,16 @@ Criando uma API restfull com Spring Boot
 
 Criando os Metodos
 
-### * __Metodo Get:__
+### *Metodo Get:
 utilizado para buscar todos os contatos salvos no banco de dados
 
-### * __Metodo Post:__
+### *Metodo Post:
 utilizado para salvar um novo contato no banco de dados
 
-### * __Metodo Put:__
+### *Metodo Put:
 utilizado para atualizar um contato existente no banco de dados apartir do id
 
-### * __Metodo delete:__
+### * Metodo delete:
 utilizado para deletar um contato existente no banco de dados apartir do id
 
 
